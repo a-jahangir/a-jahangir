@@ -68,6 +68,8 @@ Marketplace administration system featuring:
 
 ## 📫 Contact
 
+- Email: a.jahangir74@gmail.com
+- LinkedIn: https://linkedin.com/in/a-jahangir
 - GitHub: https://github.com/a-jahangir
 
 ---
